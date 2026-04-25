@@ -1,10 +1,7 @@
 # OSS Audit Project
 
 # Author
-
-Name:  Gautam Kumar Singh  
-Roll Number: 24BAI10088  
-Software Chosen: Git  
+DILEEP KUSHWAHA
 
 ## Scripts
 
